@@ -20,8 +20,7 @@ https://drive.google.com/file/d/11sUI3kFFdSylmulrwjEs_Pl3QlIMjHAr/view
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How to Contribute](#how-to-contribute)
-- [Tests](#tests)
+
         
 
 ## Installation
